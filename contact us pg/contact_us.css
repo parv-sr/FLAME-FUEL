@@ -1,0 +1,15 @@
+.contact {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow Effect */
+    transition: box-shadow 0.3s ease; /* Smooth transition */
+    height: 700px;  
+}
+
+
+.condet{
+    margin-top: 30px;
+    width:30%;
+    color:rgb(99, 199, 233);
+}
