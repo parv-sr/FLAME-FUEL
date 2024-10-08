@@ -1,7 +1,2 @@
-echo "# FLAME-FUEL" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/parv-sr/FLAME-FUEL.git
-git push -u origin main
+This is the FLAME FUEL source code. All files can be found in this directory. main.html is the home page, and rest can be found within. 
+Contact parv.sharma@flame.edu.in for any discrepency. 
