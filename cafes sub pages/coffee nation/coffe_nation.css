@@ -41,7 +41,11 @@ body{
     font-size: larger;
 }
 
-.ft-menu-img{
-    width:400px;
+.cn-menu-img{
+    width:700px;
     border-color:aliceblue;
+}
+
+.cn-img{
+    width:500px;
 }

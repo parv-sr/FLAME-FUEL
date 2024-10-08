@@ -16,10 +16,11 @@ body{
 
 
 .details{
-    background-color: white;
+    background-color: #fff;
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease; 
     
 }
 
@@ -33,7 +34,7 @@ body{
     padding: 30px;
 }
 
-.ftimg{
+.shantiimg{
     width:500px;
     border-radius: 5px;
     margin-left:20px;
