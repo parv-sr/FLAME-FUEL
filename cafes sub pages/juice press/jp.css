@@ -34,7 +34,7 @@ body{
     padding: 30px;
 }
 
-.ftimg{
+.jpimg{
     width:500px;
     border-radius: 5px;
     margin-left:20px;
@@ -42,7 +42,7 @@ body{
     font-size: larger;
 }
 
-.ft-menu-img{
+.jp-menu-img{
     width:400px;
     border-color:aliceblue;
 }
